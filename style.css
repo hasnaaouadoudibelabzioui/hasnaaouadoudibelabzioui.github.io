@@ -42,7 +42,10 @@ body{
     .box.small{
         height: 100px;
     }
-
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
 p {
 	font-size: 16px;
 	color: #000000;
